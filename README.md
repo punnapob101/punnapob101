@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Punnapob Roongwattanapak (Captain)
 <div align="center">
-  <img src="https://profile-counter.glitch.me/punnapob101/count.svg" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpunnapob101%2Fpunnapob101&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Visitor Count" />
 </div>
 
 ---
@@ -75,8 +75,12 @@ I am highly motivated to continuously develop my skills and take on new challeng
 
 <p align="center">
   <a href="https://github.com/punnapob101/punnapob101/stargazers">
-    <img src="https://img.shields.io/badge/Like-Support-FC1F1F?style=for-the-badge&logo=heart" alt="Like" />
+    <img src="https://img.shields.io/badge/SUPPORT_BY-STARRING_THIS_REPRO-FF512F?style=for-the-badge&logo=github&logoColor=white" alt="Like" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HEART-DASHED-ED1E79?style=for-the-badge&logo=heart&logoColor=white" alt="Heart" />
 </p>
 
 <p align="center">
