@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Punnapob Roongwattanapak (Captain)
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpunnapob101%2Fpunnapob101&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=punnapob101&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 ---
