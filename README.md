@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Punnapob Roongwattanapak (Captain)
-
-<div align="center">
-
-
 ---
 
 ### 👤 About Me
