@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Punnapob Roongwattanapak (Captain)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/punnapob101/count.svg" alt="Visitor Count" />
+</div>
+
 ---
 
 ### 👤 About Me
@@ -68,6 +72,12 @@ I am highly motivated to continuously develop my skills and take on new challeng
     <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line ID" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/punnapob101/punnapob101/stargazers">
+    <img src="https://img.shields.io/badge/Like-Support-FC1F1F?style=for-the-badge&logo=heart" alt="Like" />
+  </a>
+</p>
 
 <p align="center">
   <i>"Success comes from continuous learning and development."</i>
