@@ -13,8 +13,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Success+comes+from+continuous+learning+and+development." alt="Typing Animation" /></a>
+</p>
 
----
+
+--- 
 
 ### 👤 About Me
 I am a 3rd-year Computer Science student with a strong passion for **Infrastructure**, **Software Programming**, and **Web Development**.
@@ -93,6 +97,4 @@ I am highly motivated to continuously develop my skills and take on new challeng
   <img src="https://img.shields.io/badge/HEART-DASHED-ED1E79?style=for-the-badge&logo=heart&logoColor=white" alt="Heart" />
 </p>
 
-<p align="center">
-  <i>"Success comes from continuous learning and development."</i>
 </p>
