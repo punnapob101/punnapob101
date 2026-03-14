@@ -21,6 +21,7 @@
 
 ผมมีความมุ่งมั่นในการพัฒนาทักษะและพร้อมรับมือกับความท้าทายใหม่ๆ ผมภูมิใจในความรับผิดชอบ ความอดทน และความทุ่มเทในการสร้างสรรค์ผลงานที่มีคุณภาพ ผมกระตือรือร้นที่จะร่วมเป็นส่วนหนึ่งในโครงการที่สร้างสรรค์และสะสมประสบการณ์ระดับมืออาชีพที่ล้ำค่า
 
+
 ---
 
 ### 🎓 การศึกษา
@@ -47,16 +48,23 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 
+#### 🚀 Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 #### 🏗️ โครงสร้างพื้นฐานและเครื่องมือ
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 #### 🛡️ เครือข่ายและความปลอดภัย
 ![Networking](https://img.shields.io/badge/TCP/IP-005571?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Security](https://img.shields.io/badge/Nmap%20Security-4F5D95?style=for-the-badge&logo=security&logoColor=white)
+
+### 🔭 Currently Exploring
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
