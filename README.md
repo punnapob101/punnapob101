@@ -3,10 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=punnapob101&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
 </div>
 
+<div align="right">
+  <a href="readme.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English" /></a>
+  <a href="readme.th.md"><img src="https://img.shields.io/badge/Language-Thai-red?style=for-the-badge" alt="ภาษาไทย" /></a>
+</div>
+
 ---
 
 ### 👤 About Me
-I am a 3rd-year Computer Science student with a strong passion for learning and a deep interest in **Infrastructure** and **Software Programming**. 
+I am a 3rd-year Computer Science student with a strong passion for **Infrastructure**, **Software Programming**, and **Web Development**.
 
 I am highly motivated to continuously develop my skills and take on new challenges. I pride myself on being responsible, resilient, and dedicated to delivering high-quality work. I am eager to contribute to innovative projects and gain valuable professional experience.
 
@@ -49,32 +54,14 @@ I am highly motivated to continuously develop my skills and take on new challeng
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punnapob101&show_icons=true&theme=vue-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punnapob101&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ### 📞 Contact
-<div align="center">
-  <a href="mailto:prpunnapob@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="mailto:660673@hcu.ac.th">
-    <img src="https://img.shields.io/badge/Uni_Email-005C9F?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="University Email" />
-  </a>
-  <a href="https://github.com/punnapob101">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="tel:0809973812">
-    <img src="https://img.shields.io/badge/Phone-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  <a href="line://ti/p/~122547122547">
-    <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line ID" />
-  </a>
-</div>
+- **Phone:** [0809973812](tel:0809973812)
+- **Email:** [prpunnapob@gmail.com](mailto:prpunnapob@gmail.com)
+- **University Email:** [660673@hcu.ac.th](mailto:660673@hcu.ac.th)
+- **Line ID:** [122547122547](line://ti/p/~122547122547)
+- **University:** [Huachiew Chalermprakiet University](https://www.hcu.ac.th)
+
 
 <p align="center">
   <a href="https://github.com/punnapob101/punnapob101/stargazers">
