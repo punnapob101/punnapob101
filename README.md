@@ -1,12 +1,18 @@
 # 👋 Hi, I'm Punnapob Roongwattanapak (Captain)
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=punnapob101&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
-</div>
 
-<div align="right">
-  <a href="readme.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English" /></a>
-  <a href="readme.th.md"><img src="https://img.shields.io/badge/Language-Thai-red?style=for-the-badge" alt="ภาษาไทย" /></a>
-</div>
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=punnapob101&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
+    </td>
+    <td align="right">
+      <a href="readme.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English" /></a>
+      <a href="readme.th.md"><img src="https://img.shields.io/badge/Language-Thai-red?style=for-the-badge" alt="ภาษาไทย" /></a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -51,6 +57,12 @@ I am highly motivated to continuously develop my skills and take on new challeng
 #### 🛡️ Networking & Security
 ![Networking](https://img.shields.io/badge/TCP/IP-005571?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Security](https://img.shields.io/badge/Nmap%20Security-4F5D95?style=for-the-badge&logo=security&logoColor=white)
+
+---
+
+### 🌐 Portfolio
+- **Live Portfolio:** [punnapob101.github.io/Protfolio](https://punnapob101.github.io/Protfolio/)
+
 
 ---
 
