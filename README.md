@@ -80,7 +80,6 @@ I am highly motivated to continuously develop my skills and take on new challeng
 
 
 ### 📞 Contact
-- **Phone:** [0809973812](tel:0809973812)
 - **Email:** [prpunnapob@gmail.com](mailto:prpunnapob@gmail.com)
 - **University Email:** [660673@hcu.ac.th](mailto:660673@hcu.ac.th)
 - **Line ID:** [122547122547](line://ti/p/~122547122547)
