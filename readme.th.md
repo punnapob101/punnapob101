@@ -79,7 +79,6 @@
 ---
 
 ### 📞 ติดต่อ
-- **โทร:** [0809973812](tel:0809973812)
 - **อีเมล:** [prpunnapob@gmail.com](mailto:prpunnapob@gmail.com)
 - **อีเมลมหาวิทยาลัย:** [660673@hcu.ac.th](mailto:660673@hcu.ac.th)
 - **Line ID:** [122547122547](line://ti/p/~122547122547)
