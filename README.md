@@ -4,7 +4,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <img src="https://komarev.com/ghpvc/?username=punnapob101&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
+      <img src="https://komarev.com/ghpvc/?username=punnapob101&label=Visitors&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
     </td>
     <td align="right">
       <a href="readme.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English" /></a>
