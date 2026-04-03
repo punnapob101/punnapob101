@@ -40,6 +40,10 @@ I am highly motivated to continuously develop my skills and take on new challeng
 
 ---
 
+### 🌐 Portfolio
+- **Live Portfolio:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
+  
+---
 ### 🛠️ Technical Skills
 
 #### 💻 Programming Languages
@@ -144,13 +148,6 @@ I am highly motivated to continuously develop my skills and take on new challeng
 > 💡 *More projects available on my [GitHub Repositories](https://github.com/punnapob101?tab=repositories)*
 
 ---
-
-### 🌐 Portfolio
-- **Live Portfolio:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
-
-
----
-
 
 ### 📞 Contact
 - **Email:** [prpunnapob@gmail.com](mailto:prpunnapob@gmail.com)
