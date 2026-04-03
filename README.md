@@ -81,7 +81,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
 <table width="100%">
   <tr>
     <td>
-      <h3>🅿️ University Parking Registration System</h3>
+      <h3>1️⃣ University Parking Registration System</h3>
       <p>A web application for managing vehicle registration data, designed to streamline entry/exit screening and simplify data verification for university parking operations.</p>
       <p><b>Key Features:</b> <code>Role-Based Access (Admin/User)</code> · <code>Vehicle Data Management</code> · <code>Entry/Exit Logging</code></p>
       <p>
@@ -96,7 +96,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
   </tr>
   <tr>
     <td>
-      <h3>🚨 University Accident Notification System</h3>
+      <h3>2️⃣ University Accident Notification System</h3>
       <p>A prototype web application to reduce response time for on-campus accident coordination, focusing on data collection and risk zone analysis for improved safety.</p>
       <p><b>Key Features:</b> <code>GPS Location Pinning</code> · <code>Injury Assessment</code> · <code>Risk Zone Analysis</code></p>
       <p>
@@ -111,7 +111,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
   </tr>
   <tr>
     <td>
-      <h3>⚽ Boy Soccer Academy Evaluation System</h3>
+      <h3>3️⃣ Boy Soccer Academy Evaluation System</h3>
       <p>A hybrid end-to-end athlete evaluation system using AppSheet for field data collection and React for processing — featuring Radar Chart skill visualization and automated A4 Report Card generation.</p>
       <p><b>Key Features:</b> <code>Hybrid Data Collection</code> · <code>Dynamic CSV Processing</code> · <code>Radar Chart</code> · <code>Auto Report Card (A4)</code></p>
       <p>
@@ -127,7 +127,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
   </tr>
   <tr>
     <td>
-      <h3>🔄 Go Backup Tool</h3>
+      <h3>4️⃣ Go Backup Tool</h3>
       <p>A lightweight, high-performance CLI utility for automating file backup processes — built as a hands-on project to master Go (Golang) with efficient file handling and data compression.</p>
       <p><b>Learning Objectives:</b> <code>File System Ops</code> · <code>SHA-256 Checksum</code> · <code>Zip Compression</code> · <code>Smart Filter CLI</code></p>
       <p>
