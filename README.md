@@ -169,12 +169,3 @@ I am highly motivated to continuously develop my skills and take on new challeng
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HEART-DASHED-ED1E79?style=for-the-badge&logo=heart&logoColor=white" alt="Heart" />
-</p>
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BBFA&height=120&section=footer" width="100%" />
-</p>
