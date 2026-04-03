@@ -14,7 +14,7 @@
 </table>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Success+comes+from+continuous+learning+and+development." alt="Typing Animation" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0066FF&center=true&vCenter=true&width=800&lines=Success+comes+from+continuous+learning+and+development." alt="Typing Animation" /></a>
 </p>
 
 
