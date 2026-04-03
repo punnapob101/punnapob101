@@ -43,6 +43,13 @@
 ### 🌐 พอร์ตโฟลิโอ
 - **พอร์ตโฟลิโอ:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
 
+  **Resume:** Resume ไฟล์ PDF
+<p>
+  <a href="https://drive.google.com/file/d/1ur537Xk6IeC4ENPXQDm5BB7CEiXb1OAP/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄_VIEW_RESUME-00BBFA?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ ทักษะทางเทคนิค
