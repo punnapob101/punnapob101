@@ -72,6 +72,91 @@ I am highly motivated to continuously develop my skills and take on new challeng
 
 ---
 
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🅿️ University Parking Registration System</h3>
+      <p align="center">
+        <a href="https://github.com/punnapob101" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p align="center">A web application for managing vehicle registration data, designed to streamline entry/exit screening and simplify data verification for university parking operations.</p>
+      <p align="center"><b>Key Features</b></p>
+      <p align="center"><code>Role-Based Access (Admin/User)</code> · <code>Vehicle Data Management</code> · <code>Entry/Exit Logging</code></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚨 University Accident Notification System</h3>
+      <p align="center">
+        <a href="https://github.com/punnapob101" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p align="center">A prototype web application to reduce response time for on-campus accident coordination, focusing on data collection and risk zone analysis for improved safety.</p>
+      <p align="center"><b>Key Features</b></p>
+      <p align="center"><code>GPS Location Pinning</code> · <code>Injury Assessment</code> · <code>Risk Zone Analysis</code></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚽ Boy Soccer Academy Evaluation System</h3>
+      <p align="center">
+        <a href="https://github.com/punnapob101" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p align="center">A hybrid end-to-end athlete evaluation system using AppSheet for field data collection and React for processing — featuring Radar Chart skill visualization and automated A4 Report Card generation.</p>
+      <p align="center"><b>Key Features</b></p>
+      <p align="center"><code>Hybrid Data Collection</code> · <code>Dynamic CSV Processing</code> · <code>Radar Chart</code> · <code>Auto Report Card (A4)</code></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/AppSheet-34A853?style=flat-square&logo=google&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔄 Go Backup Tool</h3>
+      <p align="center">
+        <a href="https://github.com/punnapob101" target="_blank">
+          <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+      <p align="center">A lightweight, high-performance CLI utility for automating file backup processes — built as a hands-on project to master Go (Golang) with efficient file handling and data compression.</p>
+      <p align="center"><b>Learning Objectives</b></p>
+      <p align="center"><code>File System Ops</code> · <code>SHA-256 Checksum</code> · <code>Zip Compression</code> · <code>Smart Filter CLI</code></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/SHA--256-FF6F00?style=flat-square&logo=letsencrypt&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zip-7B68EE?style=flat-square&logo=files&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+> 💡 *More projects available on my [GitHub Repositories](https://github.com/punnapob101?tab=repositories)*
+
+---
+
 ### 🌐 Portfolio
 - **Live Portfolio:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
 
