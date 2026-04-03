@@ -73,7 +73,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
 ---
 
 ### 🌐 Portfolio
-- **Live Portfolio:** [punnapob101.github.io/Protfolio](https://punnapob101.github.io/Protfolio/)
+- **Live Portfolio:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
 
 
 ---
