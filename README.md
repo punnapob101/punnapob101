@@ -87,7 +87,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
-      <a href="https://github.com/punnapob101" target="_blank"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="[https://github.com/punnapob101](https://github.com/punnapob101/HCU_ParkingSystem)" target="_blank"><img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </td>
   </tr>
   <tr>
