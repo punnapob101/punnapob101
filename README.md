@@ -41,7 +41,7 @@ I am highly motivated to continuously develop my skills and take on new challeng
 ---
 
 ### 🌐 Portfolio
-- **Portfolio:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
+- **Portfolio:** [https://punnapob101.github.io/Portfolio/](https://punnapob101.github.io/Portfolio/)
 
 ---
 
