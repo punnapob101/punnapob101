@@ -25,7 +25,7 @@
 --- 
 
 ### 👤 About Me
-I am a 3rd-year Computer Science student with a strong passion for **Infrastructure**, **Software Programming**, and **Web Development**.
+I am 4 4th-year Computer Science student with a strong passion for **Software Programming**, **Infrastructure** , and **Web Development**.
 
 I am highly motivated to continuously develop my skills and take on new challenges. I pride myself on being responsible, resilient, and dedicated to delivering high-quality work. I am eager to contribute to innovative projects and gain valuable professional experience.
 
@@ -36,12 +36,9 @@ I am highly motivated to continuously develop my skills and take on new challeng
 - **Bachelor of Science in Computer Science** | 2023 - Present
 - **Huachiew Chalermprakiet University**
 - *Currently in my 3rd year*
-- **GPA:** `3.31`
+- **GPA:** `3.39`
 
 ---
-
-### 🌐 Portfolio
-- **Live Portfolio:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
 
 📝 Resume PDF
 <p>
