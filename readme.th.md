@@ -41,7 +41,7 @@
 ---
 
 ### 🌐 พอร์ตโฟลิโอ
-- **พอร์ตโฟลิโอ:** [punnapob101.github.io/Portfolio](https://punnapob101.github.io/Portfolio/)
+- **พอร์ตโฟลิโอ:** [https://punnapob101.github.io/Portfolio/](https://punnapob101.github.io/Portfolio/)
 
 📝 ไฟล์ Resume PDF
 <p>
