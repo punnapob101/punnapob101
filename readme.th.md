@@ -160,8 +160,8 @@
 
 
 ### 📞 ติดต่อ
-- **อีเมล:** [prpunnapob@gmail.com](mailto:prpunnapob@gmail.com)
 - **อีเมลมหาวิทยาลัย:** [660673@hcu.ac.th](mailto:660673@hcu.ac.th)
+- **อีเมล:** [prpunnapob@gmail.com](mailto:prpunnapob@gmail.com)
 - **Line ID:** [122547122547](line://ti/p/~122547122547)
 - **มหาวิทยาลัย:** [มหาวิทยาลัยหัวเฉียวเฉลิมพระเกียรติ](https://www.hcu.ac.th)
 
